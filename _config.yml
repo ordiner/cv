@@ -80,18 +80,6 @@ content:
 
           Alcuni esempi di apparecchiature con cui lavoro abitualmente sono:
               
-     - layout: top-middle
-        title: post-produzione
-        quote: >
-          congressi, eventi aziendali, spettacoli. insomma, il mondo delle cose "dal vivo".
-        description: | # this will include new lines to allow paragraphs
-          Ideazione completa e gestione della regia tecnica di eventi di piccole e medie dimensioni (1000+ persone di pubblico), oppure ruoli specifici in produzioni più grandi.
-
-          Mi occupo regolarmente della scelta delle attrezzature, dell’installazione, del cablaggio e del coordinamento delle figure tecniche per quanto riguarda audio, riprese, regia video, streaming, controlli, proiezioni - in teatri, sale convegno, auditorium.
-
-          Alcuni esempi di apparecchiature con cui lavoro abitualmente sono:
-
-              
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
