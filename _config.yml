@@ -114,7 +114,7 @@ content:
          Hindenburg Pro, Cavalry 2D, Canva, 
          postprocesso audio con DxRevive-IkMultimedia-iZotope,…
          
-  - title: Experience # Title for the section
+ # - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -136,17 +136,15 @@ content:
         caption: 2000
         sub_title: Perito Industriale in Elettronica e Telecomunicazioni
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          quote
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          description
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      punto elenco:
+      - prova punto elenco
 
        Se vuoi, è anche possibile scaricare un mio curriculum un po' più formale - [Ordiner Alex CV](/cv/images/Ordiner Alex - curriculum tecnico 2025.pdf)
     
