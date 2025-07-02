@@ -50,8 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 Ciao, mi chiamo Alex Ordiner e sono un Tecnico audio video specializzato in eventi congressuali, post produzione e integrazione di sistemi
 Circa vent’anni fa, parallelamente alla formazione universitaria in ambito multimediale, ho iniziato la mia esperienza lavorativa come tecnico per eventi di piccole e medie dimensioni. 
-Successivamente ho iniziato a lavorare a tempo pieno come tecnico audiovisivo, occupandomi sia della gestione operativa che della programmazione di sistemi AV. Nel corso della mia carriera ho ampliato progressivamente le mie competenze specializzandomi in tre aree diverse: 
-<mark>eventi live</mark> --- <mark>post-produzione</mark> --- <mark>integratore di sistemi</mark>
+
 
 content:
   - title: Projects # Title for the section
