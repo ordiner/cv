@@ -81,15 +81,12 @@ content:
           Mi occupo regolarmente della scelta delle attrezzature, dell’installazione, del cablaggio e del coordinamento delle figure tecniche per quanto riguarda audio, riprese, regia video, streaming, controlli, proiezioni - in teatri, sale convegno, auditorium.
 
           Alcuni esempi di apparecchiature con cui lavoro abitualmente sono:
-              - layout: left
-                title: Audio
-                description: |
-                  Midas Pro series, Midas / Behringer X32 series, Behringer Wing
+             **Gestione Audio:**
+             - Midas Pro series, Midas / Behringer X32 series, Behringer Wing
           
-             - layout: left  
-               title: Video
-               description: |
-                 Blackmagicdesign ATEM constellation ed extreme, Roland V-SERIES, Panasonic PTZ UE150
+            **Regia Video:**
+            - Blackmagicdesign ATEM constellation ed extreme
+            - Roland V-SERIES, Panasonic PTZ UE150
           
              - layout: left
                title: Software
