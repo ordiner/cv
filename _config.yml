@@ -82,28 +82,23 @@ content:
               
               
       - layout: top-middle
-        title: eventi live
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: post-produzione
         quote: >
           congressi, eventi aziendali, spettacoli. insomma, il mondo delle cose "dal vivo".
         description: | # this will include new lines to allow paragraphs
-          Ideazione completa e gestione della regia tecnica di eventi di piccole e medie dimensioni (1000+ persone di pubblico), oppure ruoli specifici in produzioni più grandi.
+         Mi sono occupato di montaggio audiovisivo di vario tipo, legato al mondo congressuale e dello spettacolo.
 
-          Mi occupo regolarmente della scelta delle attrezzature, dell’installazione, del cablaggio e del coordinamento delle figure tecniche per quanto riguarda audio, riprese, regia video, streaming, controlli, proiezioni - in teatri, sale convegno, auditorium.
+         I lavori principali hanno riguardato montaggi video multicamera di concerti, congressi, videodidattici, realizzazione di video formativi per il personale, e creazione di video di presentazione prodotti.
 
-          Alcuni esempi di apparecchiature con cui lavoro abitualmente sono:
-              
-              
-                     
-              
+         Parallelamente collaboro alla produzione tecnica, registrazione e montaggio di podcast.
+
+         Alcuni dei software di post-produzione utilizzati:
+
+         Apple Final Cut  *(Apple Certified Professional per Final Cut Pro X e Motion - 2013 presso Espero)*, DaVinci Resolve, 
+         Affinity Suite, 
+         Hindenburg Pro, Cavalry 2D, Canva, 
+         postprocesso audio con DxRevive-IkMultimedia-iZotope,…
+         
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
