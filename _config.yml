@@ -9,10 +9,10 @@ version: 2
 name: Alex Ordiner
 title: tecnico audio video
 email: ordiner@gmail.com
-website: www.ordiner.github.io/cv
+website: https://ordiner.github.io/cv/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
