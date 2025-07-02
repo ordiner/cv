@@ -45,7 +45,7 @@ darkmode: true
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: su di me
+about_title: su di me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Ciao, mi chiamo Alex Ordiner e sono un tecnico audio video specializzato in eventi congressuali, post produzione e integrazione di sistemi
