@@ -48,11 +48,11 @@ darkmode: true
 about_title: su di me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Ciao, mi chiamo Alex e sono un tecnico audio video specializzato in eventi congressuali, post produzione ed integrazione di sistemi.
+ Ciao, mi chiamo Alex e sono un tecnico audio-video specializzato in eventi congressuali, post produzione ed integrazione di sistemi.
  
  Circa vent’anni fa, parallelamente alla formazione universitaria in ambito multimediale, ho iniziato la mia esperienza lavorativa come tecnico per eventi di piccole e medie dimensioni. 
  
- Successivamente ho iniziato a lavorare a tempo pieno come tecnico audiovisivo, occupandomi sia della gestione operativa che della programmazione di sistemi AV.
+ Successivamente ho iniziato a lavorare a tempo pieno come tecnico audiovisivo, occupandomi sia della gestione operativa che della programmazione dei sistemi.
  
  Nel corso della mia carriera ho ampliato progressivamente le mie competenze specializzandomi in tre aree diverse: 
  
@@ -74,7 +74,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          congressi, eventi aziendali, spettacoli. insomma, il mondo delle cose "dal vivo".
+          congressi, eventi aziendali, spettacoli. Il mondo, appunto, delle cose "dal vivo".
         description: | # this will include new lines to allow paragraphs
           Ideazione completa e gestione della regia tecnica di eventi di piccole e medie dimensioni (1000+ persone di pubblico), oppure ruoli specifici in produzioni più grandi.
 
@@ -99,7 +99,7 @@ content:
       - layout: top-middle
         title: post-produzione
         quote: >
-          congressi, eventi aziendali, spettacoli. insomma, il mondo delle cose "dal vivo".
+          congressi, eventi aziendali, spettacoli. Il mondo, appunto, delle cose "dal vivo".
         description: | # this will include new lines to allow paragraphs
          Mi sono occupato di montaggio audiovisivo di vario tipo, legato al mondo congressuale e dello spettacolo.
 
@@ -151,7 +151,7 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
+      qua puoi trovare un mio curriculum, scaricabile, un po' più formale - [Ordiner Alex CV](/images/Ordiner Alex - curriculum tecnico 2025.pdf)
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
