@@ -45,7 +45,7 @@ darkmode: true
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: su di me
+# about_title: su di me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Ciao, mi chiamo Alex Ordiner e sono un tecnico audio video specializzato in eventi congressuali, post produzione e integrazione di sistemi
@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
  
  Successivamente ho iniziato a lavorare a tempo pieno come tecnico audiovisivo, occupandomi sia della gestione operativa che della programmazione di sistemi AV. Nel corso della mia carriera ho ampliato progressivamente le mie competenze specializzandomi in tre aree diverse: 
  
- <mark>eventi live</mark> --- <mark>post-produzione</mark> --- <mark>integratore di sistemi</mark>
+ <mark>eventi live</mark> --- <mark>post-produzione</mark> --- <mark>integrazione di sistemi</mark>
 
 content:
   - title: sulle mie competenze # Title for the section
