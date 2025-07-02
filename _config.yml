@@ -48,11 +48,13 @@ darkmode: true
 about_title: su di me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Ciao, mi chiamo Alex Ordiner e sono un tecnico audio video specializzato in eventi congressuali, post produzione e integrazione di sistemi
+ Ciao, mi chiamo Alex e sono un tecnico audio video specializzato in eventi congressuali, post produzione ed integrazione di sistemi.
  
  Circa vent’anni fa, parallelamente alla formazione universitaria in ambito multimediale, ho iniziato la mia esperienza lavorativa come tecnico per eventi di piccole e medie dimensioni. 
  
- Successivamente ho iniziato a lavorare a tempo pieno come tecnico audiovisivo, occupandomi sia della gestione operativa che della programmazione di sistemi AV. Nel corso della mia carriera ho ampliato progressivamente le mie competenze specializzandomi in tre aree diverse: 
+ Successivamente ho iniziato a lavorare a tempo pieno come tecnico audiovisivo, occupandomi sia della gestione operativa che della programmazione di sistemi AV.
+ 
+ Nel corso della mia carriera ho ampliato progressivamente le mie competenze specializzandomi in tre aree diverse: 
  
  <mark>eventi live</mark> --- <mark>post-produzione</mark> --- <mark>integrazione di sistemi</mark>
 
@@ -79,7 +81,25 @@ content:
           Mi occupo regolarmente della scelta delle attrezzature, dell’installazione, del cablaggio e del coordinamento delle figure tecniche per quanto riguarda audio, riprese, regia video, streaming, controlli, proiezioni - in teatri, sale convegno, auditorium.
 
           Alcuni esempi di apparecchiature con cui lavoro abitualmente sono:
-              
+              - layout: left
+                title: Audio
+                description: |
+                  Midas Pro series, Midas / Behringer X32 series, Behringer Wing
+          
+             - layout: left  
+               title: Video
+               description: |
+                 Blackmagicdesign ATEM constellation ed extreme, Roland V-SERIES, Panasonic PTZ UE150
+          
+             - layout: left
+               title: Software
+               description: |
+                 Wirecast, OBS, ProVideoPlayer, Mitti, Companion, Skaarhoj
+          
+            - layout: left
+              title: Protocolli
+              description: |
+                Dante-AES67, NDI, AES50, MADI, SDVoE
               
       - layout: top-middle
         title: post-produzione
