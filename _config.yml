@@ -78,23 +78,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           Ideazione completa e gestione della regia tecnica di eventi di piccole e medie dimensioni (1000+ persone di pubblico), oppure ruoli specifici in produzioni più grandi.
 
-          Mi occupo regolarmente della scelta delle attrezzature, dell’installazione, del cablaggio e del coordinamento delle figure tecniche per quanto riguarda audio, riprese, regia video, streaming, controlli, proiezioni - in teatri, sale convegno, auditorium.
+          Mi occupo regolarmente della scelta delle attrezzature, dell'installazione, del cablaggio e del coordinamento delle figure tecniche per quanto riguarda audio, riprese, regia video, streaming, controlli, proiezioni - in teatri, sale convegno, auditorium.
 
           Alcuni esempi di apparecchiature con cui lavoro abitualmente sono:
               
-             **Audio:**
-             - Midas Pro series, Midas / Behringer X32 series, Behringer Wing
+          **Audio:**
+          - Midas Pro series, Midas / Behringer X32 series, Behringer Wing
           
-            **Video:**
-            - Blackmagicdesign ATEM constellation ed extreme
-            - Roland V-SERIES, Panasonic PTZ UE150
+          **Video:**
+          - Blackmagicdesign ATEM constellation ed extreme
+          - Roland V-SERIES, Panasonic PTZ UE150
           
-            **Software:** Wirecast, OBS, ProVideoPlayer, Mitti, Companion, Skaarhoj
+          **Software:** Wirecast, OBS, ProVideoPlayer, Mitti, Companion, Skaarhoj
           
-            - layout: left
-              title: Protocolli
-              description: |
-                Dante-AES67, NDI, AES50, MADI, SDVoE
+          **Protocolli:** Dante-AES67, NDI, AES50, MADI, SDVoE
               
       - layout: top-middle
         title: post-produzione
@@ -109,7 +106,7 @@ content:
 
          Alcuni dei software di post-produzione utilizzati:
 
-         Apple Final Cut  *(Apple Certified Professional per Final Cut Pro X e Motion - 2013 presso Espero)*, DaVinci Resolve, 
+         Apple Final Cut  *(Apple Certified Professional per Final Cut Pro X e Motion - 2013 presso Espero)*, DaVinci Resolve, 
          Affinity Suite, 
          Hindenburg Pro, Cavalry 2D, Canva, 
          postprocesso audio con DxRevive-IkMultimedia-iZotope,…
@@ -120,7 +117,7 @@ content:
         quote: >
           avete presente quando schicci un tasto e tutta la sala riunione si accende? Ecco, quella cosa lì.
         description: | # this will include new lines to allow paragraphs
-         Per concludere, una parte della mia esperienza lavorativa riguarda l’installazione di sistemi multimediali per sistemi fissi in teatri, auditorium, sale conferenze, aule universitarie,…
+         Per concludere, una parte della mia esperienza lavorativa riguarda l'installazione di sistemi multimediali per sistemi fissi in teatri, auditorium, sale conferenze, aule universitarie,…
 
          Tali sistemi includono proiettori, schermi motorizzati, ledwall, monitor di varie dimensioni, microfonia, sistemi di videoconfernza, videocamere controllate, luci,…
 
@@ -129,8 +126,7 @@ content:
 
          Per i progetti più complessi ho utilizzato Kramer (Kramer Control System Designer certificato), Extron (certificato) e Q-sys (in fase di certificazione)
          
-               
- - title: competenze trasversali # Title for the section
+  - title: competenze trasversali # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: right
@@ -143,12 +139,28 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - conoscenza approfondita di sistemi informatici MacOS/Win e conoscenza base sistemi Linux
-            - discreta conoscenza delle infrastrutture di reti dati, con particolare attenzione all’AV over IP
+            - discreta conoscenza delle infrastrutture di reti dati, con particolare attenzione all'AV over IP
             - buona conoscenza di formati multimediali: codec audio-video-immagine e le loro caratteristiche
             - buona competenza nella ripresa video e sonora con fotocamere, camcorder, registratori esterni e simili - nozioni di illuminazione professionale
             - competenza base della sonorizzazione degli ambienti
             
-      
+      - layout: left
+        title: ambito personale
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+           Ho sempre lavorato in ambienti collaborativi, dove il confronto con i colleghi è fondamentale per la riuscita del servizio.
+
+           Ho maturato esperienza nel lavoro con i giovani, avendo gestito in passato campeggi estivi per ragazzi delle scuole medie e superiori.
+           Sempre come attività legata al mondo giovanile, ho cogestito per 2 anni le sale prove di un centro di aggregazione giovanile.
+
+           Da diversi anni partecipo come volontario a vari festival di divulgazione gestendo, oltre alla parte tecnica, il coordinamento di volontari - per lo più giovani
+           Recentemente, ho insegnato tecniche di videoproiezione per un ente di formazione, lavorando con classi di neodiplomati. 
+           Questa esperienza mi ha permesso di sviluppare esperienza nel coordinare giovani in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.
 
   - title: formazione scolastica # Title for the section
     layout: list # Type of content section (list/text)
@@ -168,7 +180,7 @@ content:
       punto elenco:
       - prova punto elenco
 
-       Se vuoi, è anche possibile scaricare un mio curriculum un po' più formale - [Ordiner Alex CV](/cv/images/Ordiner Alex - curriculum tecnico 2025.pdf)
+      Se vuoi, è anche possibile scaricare un mio curriculum un po' più formale - [Ordiner Alex CV](/cv/images/Ordiner Alex - curriculum tecnico 2025.pdf)
     
 
 # Footer
