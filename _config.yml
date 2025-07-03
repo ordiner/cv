@@ -86,23 +86,24 @@ content:
             Oltre alla scelta e configurazione delle attrezzature, mi occupo anche del coordinamento dell’installazione, del cablaggio e, in generale, di tutto quello che riguarda l’allestimento tecnico. Quando serve, mi capita anche di **gestire le squadre di tecnici**.
             
             Giusto per fare qualche nome di attrezzatura, lavoro abitualmente con:
-            *Midas PRO, Behringer X32/Wing, BMD ATEM Constellation e Mini Extreme, camcorder e PTZ Sony e Panasonic, Bitfocus Companion, D&B, d&b audiotechnik, Wirecast, OBS, vMix, Dante, NDI…*
+            *Midas PRO, Behringer X32/Wing, BMD ATEM Constellation e Mini Extreme, camcorder e PTZ broadcast Sony e Panasonic, Bitfocus Companion, d&b audiotechnik, Wirecast, OBS, vMix, Dante, NDI…*
 
 
               
       - layout: top-middle
         title: post-produzione
         quote: >
-          tutto il lavoro, dietro al computer, per creare blba bla .
+          tutto il lavoro, dietro al computer, per creare i contenuti multimediali.
         description: | # this will include new lines to allow paragraphs
-         Principalemtne mi sono occupato di montaggi legati al mondo congressuale e dello spettacolo.
-         Ad esempio con sistemazione e allineamento di riprese congressuali, ma anche di editing multicamera di concerti, di videodidattici per il personale aziendale.
+         Unendo la passione per il video al mondo degli eventi live, mi sono naturalemnte trovato ad occuparmi di montaggi legati al mondo congressuale e dello spettacolo.
+         Per esempio: **sistemazione e allineamento di riprese congressuali, editing multicamera di concerti, videodidattici per il personale aziendale.**
+         All'editing ho implementato competenze base di grafica ed animazione 2D 
 
-         Mi sono poi interessato alla produzione tecnica, registrazione e montaggio di podcast.
+         Negli ultimi anni mi sono infine interessato alla produzione tecnica, registrazione e montaggio di **podcast** traendone grosse soddisfazioni.
 
-         Anche in questo caso, facciamo qualche nome:
-         Apple Final Cut & Motion  *(Apple Certified)*, DaVinci Resolve, Affinity Suite, Hindenburg Pro, Cavalry 2D, Canva, 
-         postprocesso audio con DxRevive - Supertone Clear - iZotope RX,...
+         Anche in questo caso, volendo fare qualche nome:
+         *Apple Final Cut & Motion  *(Apple Certified)*, DaVinci Resolve, Affinity Suite, Hindenburg Pro, Cavalry 2D, Canva, 
+         postprocesso audio con DxRevive - iZotope RX,...*
          
          
       - layout: top-middle
@@ -110,15 +111,13 @@ content:
         quote: >
           avete presente quando premi un tasto e tutta la sala riunione si accende? Ecco, quella cosa lì.
         description: | # this will include new lines to allow paragraphs
-         Per concludere, una parte della mia esperienza lavorativa riguarda l'installazione di sistemi multimediali per sistemi fissi in teatri, auditorium, sale conferenze, aule universitarie,…
+            Per concludere, una parte della mia esperienza riguarda l’installazione e l’integrazione di sistemi multimediali fissi in teatri, auditorium, sale conferenze, aule universitarie e simili.
 
-         Tali sistemi includono proiettori, schermi motorizzati, ledwall, monitor di varie dimensioni, microfonia, sistemi di videoconfernza, videocamere controllate, luci,…
+            Si tratta di proiettori, schermi, ledwall, monitor, microfonaggio, videoconferenza, camere, luci e molto altro.
 
-         Oltre alla progettazione, alla selezione delle apparecchiature e alla loro installazione, mi occupo prevalentemente della programmazione dei sistemi.
-         Protocolli di comunicazione, creazione delle interfacce utente, adatammento degli impianti secondo le esigenze del cliente, etc.
+            Oltre all’installazione vera e propria delle apparecchiature, mi occupo soprattutto della programmazione dei sistemi di controllo: protocolli di comunicazione, creazione delle interfacce utente, adattamento degli impianti secondo le esigenze del cliente, ecc.
 
-         Per i progetti più complessi ho utilizzato Kramer (Kramer Control System Designer certificato), Extron (certificato) e Q-sys (in fase di certificazione)
-         
+            Per i progetti più complessi ho lavorato con Kramer *(certified)*, Extron *(certificato)* e Q-Sys *(in fase di certificazione)*, e con apparecchiature tipo micShure serie MXA, proiettori 26k, ledwall
   - title: competenze trasversali # Title for the section
     layout: list # Type of content section (list/text)
     content:
