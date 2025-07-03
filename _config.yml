@@ -50,11 +50,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Ciao, mi chiamo Alex e sono un tecnico audio-video.
  
- Conclusi gli studi superiori *(perito elettronico)*, e parallelamente alla formazione universitaria *(tecnologie multimediali)*, ho iniziato la mia esperienza lavorativa come tecnico per eventi di piccole e medie dimensioni. 
+ Conclusi gli studi superiori *(perito elettronico)* e parallelamente alla formazione universitaria *(tecnologie multimediali)*, ho iniziato la mia esperienza lavorativa come tecnico per eventi di piccole e medie dimensioni. 
  
- Ho poi continuato a lavorare a tempo pieno come tecnico audiovisivo occupandomi, nel tempo, di vari aspetti di questa professione.
+ Negli anni ho continuato a lavorare a tempo pieno come tecnico audiovisivo occupandomi di vari aspetti di questa professione.
  
- Con le esperienze lavorative, e continuando a sperimentare con progetti personali, ho ampliato progressivamente le mie competenze tecniche - che attualmente credo di poterle raggruppare in tre aree: 
+ Grazie alle esperienze lavorative, e continuando a sperimentare con progetti personali, ho ampliato progressivamente le mie competenze tecniche - che attualmente credo di poterle raggruppare in tre aree: 
  
  <mark>eventi live</mark> --- <mark>post-produzione</mark> --- <mark>integrazione di sistemi</mark>
 
@@ -76,12 +76,18 @@ content:
         quote: >
           Il mondo di congressi, eventi aziendali, spettacoli. Il mondo, appunto, delle cose "dal vivo".
         description: | # this will include new lines to allow paragraphs
-          Mi sono occupato, e mi occupo tutt'ora, dell'ideazione completa e della gestione della regia tecnica di eventi di piccole e medie dimensioni (2000+ persone di pubblico). Per eventi più grandi ho coperto singoli ruoli specifici.
+          La mia esperienza è iniziata seguendo il palco dei piccoli concerti, e si è velocemente contaminata con l’ambito video. Da lì ho cominciato a occuparmi anche di **conferenze, eventi aziendali, concerti e spettacoli di vario tipo**.
 
-          Oltre la scelta delle attrezzature, il coordinamento dell'installazione, il cablaggio, e tutto quello che riguarda l'allestimento; mi sono anche occupato del coordinamento di squadre di tecnici.
-          
-          Giusto per fare qualche nome, lavoro abitualemnte con: 
-          Midas Pro, Behringer X32-wing, BMD Atem contellation e mini extreame, Sony e Panasonic camcorder e PTZ, Bitfocus Companion, Wirecast, OBS, vMix, Dante, NDI,...
+            Mi sono occupato, e mi occupo tutt’ora, dell’ideazione completa e della gestione della regia tecnica per eventi di piccole e medie dimensioni (anche con oltre 1000 persone di pubblico).
+            **Gestione audio, regia video, contributi e streaming** sono gli ambiti in cui metto più spesso mano.
+            
+            Per eventi più grandi ho ricoperto ruoli tecnici specifici all’interno del team.
+            
+            Oltre alla scelta e configurazione delle attrezzature, mi occupo anche del coordinamento dell’installazione, del cablaggio e, in generale, di tutto quello che riguarda l’allestimento tecnico. Quando serve, mi capita anche di **gestire le squadre di tecnici**.
+            
+            Giusto per fare qualche nome di attrezzatura, lavoro abitualmente con:
+            *Midas PRO, Behringer X32/Wing, BMD ATEM Constellation e Mini Extreme, camcorder e PTZ Sony e Panasonic, Bitfocus Companion, D&B, d&b audiotechnik, Wirecast, OBS, vMix, Dante, NDI…*
+
 
               
       - layout: top-middle
