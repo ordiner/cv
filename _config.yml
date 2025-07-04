@@ -74,16 +74,16 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Il mondo di congressi, eventi aziendali, spettacoli. Il mondo, appunto, delle cose "dal vivo".
+          Il mondo di congressi, eventi aziendali, spettacoli. Il mondo, appunto, delle cose "dal vivo"
         description: | # this will include new lines to allow paragraphs
-          La mia esperienza è iniziata seguendo il palco dei piccoli concerti, e si è velocemente contaminata con l’ambito video. Da lì ho cominciato a occuparmi anche di **conferenze, eventi aziendali, concerti e spettacoli di vario tipo**.
+          La mia esperienza è iniziata seguendo il palco dei piccoli concerti, e si è velocemente contaminata con l’ambito video. Da lì ho cominciato a lavorare in **conferenze, eventi aziendali, concerti e spettacoli di vario tipo**.
 
-            Mi sono occupato, e mi occupo tutt’ora, dell’ideazione completa e della gestione della regia tecnica per eventi di piccole e medie dimensioni (anche con oltre 1000 persone di pubblico).
+            Mi sono occupato, e mi occupo tutt’ora, dell’ideazione completa e della gestione della regia tecnica per eventi di piccole e medie dimensioni (1000+ persone di pubblico).
             **Gestione audio, regia video, contributi e streaming** sono gli ambiti in cui metto più spesso mano.
             
             Per eventi più grandi ho ricoperto ruoli tecnici specifici all’interno del team.
             
-            Oltre alla scelta e configurazione delle attrezzature, mi occupo anche del coordinamento dell’installazione, del cablaggio e, in generale, di tutto quello che riguarda l’allestimento tecnico. Quando serve, mi capita anche di **gestire le squadre di tecnici**.
+            Oltre alla scelta e configurazione delle attrezzature, mi occupo anche del coordinamento dell’installazione, del cablaggio e, in generale, di tutto quello che riguarda l’allestimento tecnico. Mi capita anche di **gestire le squadre di tecnici**.
             
             Giusto per fare qualche nome di attrezzatura, lavoro abitualmente con:
             *Midas PRO, Behringer X32/Wing, BMD ATEM Constellation e Mini Extreme, camcorder e PTZ broadcast Sony e Panasonic, Bitfocus Companion, d&b audiotechnik, Wirecast, OBS, vMix, Dante, NDI…*
@@ -95,11 +95,11 @@ content:
         quote: >
           tutto il lavoro, dietro al computer, per creare i contenuti multimediali.
         description: | # this will include new lines to allow paragraphs
-         Unendo la passione per il video al mondo degli eventi live, mi sono naturalemnte trovato ad occuparmi di montaggi legati al mondo congressuale e dello spettacolo.
+         L'interesse per il video unito al mondo degli eventi live, mi ha naturalemnte portato ad occuparmi di montaggi legati al mondo congressuale e dello spettacolo.
          Per esempio: **sistemazione e allineamento di riprese congressuali, editing multicamera di concerti, videodidattici per il personale aziendale.**
          All'editing ho implementato competenze base di grafica ed animazione 2D 
 
-         Negli ultimi anni mi sono infine interessato alla produzione tecnica, registrazione e montaggio di **podcast** traendone grosse soddisfazioni.
+         Negli ultimi anni mi sono infine interessato alla produzione tecnica, registrazione e montaggio di **podcast** .
 
          Anche in questo caso, volendo fare qualche nome:
          *Apple Final Cut & Motion  *(Apple Certified)*, DaVinci Resolve, Affinity Suite, Hindenburg Pro, Cavalry 2D, Canva, 
@@ -117,7 +117,7 @@ content:
 
             Oltre all’installazione vera e propria delle apparecchiature, mi occupo soprattutto della programmazione dei sistemi di controllo: protocolli di comunicazione, creazione delle interfacce utente, adattamento degli impianti secondo le esigenze del cliente.
 
-            Per i progetti più complessi ho lavorato con Q-Sys *(in fase di certificazione)*, Kramer *(certified)* e Extron *(certificato)*, e con apparecchiature tipo Shure serie MXA, proiettori 26k, ledwall
+            Per i progetti più complessi ho lavorato con Q-Sys *(in fase di certificazione)*, Kramer *(certified)* e Extron *(certified)*, e con apparecchiature tipo Shure serie MXA, proiettori 26k, ledwall
             
             
   - title: sulle altre cose che ho imparato # Title for the section
@@ -154,6 +154,25 @@ content:
 
            Da diversi anni partecipo come volontario a vari festival di divulgazione gestendo, oltre alla parte tecnica, il coordinamento di volontari - per lo più giovani
            Recentemente, ho insegnato tecniche di videoproiezione per un ente di formazione, lavorando con classi di neodiplomati. 
+           Questa esperienza mi ha permesso di sviluppare esperienza nel coordinare giovani in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.            
+
+  - title: e su quelle che sto imparando # Title for the section            
+      - layout: left
+        title: idee per il futuro
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        # caption: November 2017 - Present
+        quote: >
+          La mente è come un paracadute. Funziona solo se si apre - *James Dewar (pare)*
+        description: | # this will include new lines to allow paragraphs
+           Ho sempre lavorato in ambienti collaborativi, dove il confronto con i colleghi è fondamentale per la riuscita del servizio.
+
+           Ho maturato esperienza nel lavoro con i giovani, avendo gestito in passato campeggi estivi per ragazzi delle scuole medie e superiori.
+           Sempre come attività legata al mondo giovanile, ho cogestito per 2 anni le sale prove di un centro di aggregazione giovanile.
+
+           Da diversi anni partecipo come volontario a vari festival di divulgazione gestendo, oltre alla parte tecnica, il coordinamento di volontari - per lo più giovani
+           Recentemente, ho insegnato tecniche di videoproiezione per un ente di formazione, lavorando con classi di neodiplomati. 
            Questa esperienza mi ha permesso di sviluppare esperienza nel coordinare giovani in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.
 
   - title: formazione scolastica # Title for the section
@@ -164,7 +183,7 @@ content:
         caption: 2000
         sub_title: diploma
         quote: >
-          I.S.I.S. Malignani di Udine
+          ITI A. Malignani di Udine
        # description: | # this will include new lines to allow paragraphs
        #   description
           
@@ -176,11 +195,6 @@ content:
           Università degli studi di Ferrara
        # description: | # this will include new lines to allow paragraphs
        #   description
-          
-  - title: sul mio futuro # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      qua scrivo delle cose
 
   - title: per concludere
     layout: text
