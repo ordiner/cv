@@ -139,22 +139,21 @@ content:
             - competenza base della sonorizzazione degli ambienti
             
       - layout: left
-        title: ambito personale
-        link: boringcompany.com
+        title: insegnamento
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # sub_title: Senior Network System Administrator
+        caption: ovvero provare a trasmettere delle competenze
+       # quote: >
+        #  quello che non c'entra con la tecnica
         description: | # this will include new lines to allow paragraphs
-           Ho sempre lavorato in ambienti collaborativi, dove il confronto con i colleghi è fondamentale per la riuscita del servizio.
-
            Ho maturato esperienza nel lavoro con i giovani, avendo gestito in passato campeggi estivi per ragazzi delle scuole medie e superiori.
            Sempre come attività legata al mondo giovanile, ho cogestito per 2 anni le sale prove di un centro di aggregazione giovanile.
 
-           Da diversi anni partecipo come volontario a vari festival di divulgazione gestendo, oltre alla parte tecnica, il coordinamento di volontari - per lo più giovani
-           Recentemente, ho insegnato tecniche di videoproiezione per un ente di formazione, lavorando con classi di neodiplomati. 
-           Questa esperienza mi ha permesso di sviluppare esperienza nel coordinare giovani in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.            
+           Da diversi anni partecipo come volontario a vari festival di divulgazione gestendo, oltre alla parte tecnica, il coordinamento di volontari - per lo più giovani.
+           Recentemente, ho insegnato tecniche di videoproiezione e videomapping per un ente di formazione, lavorando con classi di neodiplomati. 
+           
+           Queste ed altre attività mi hanno permesso di sviluppare esperienza nel coordinare ragazzi e persone motivate ad imparare in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.            
 
   - title: e su quelle che sto imparando # Title for the section 
     layout: list # Type of content section (list/text)
@@ -166,16 +165,14 @@ content:
         # sub_title: Senior Network System Administrator
         # caption: November 2017 - Present
         quote: >
-          La mente è come un paracadute. Funziona solo se si apre - *James Dewar (pare)*
+          La mente è come un paracadute. Funziona solo se si apre 
+          *James Dewar (pare)* -
         description: | # this will include new lines to allow paragraphs
-           Ho sempre lavorato in ambienti collaborativi, dove il confronto con i colleghi è fondamentale per la riuscita del servizio.
-
-           Ho maturato esperienza nel lavoro con i giovani, avendo gestito in passato campeggi estivi per ragazzi delle scuole medie e superiori.
-           Sempre come attività legata al mondo giovanile, ho cogestito per 2 anni le sale prove di un centro di aggregazione giovanile.
-
-           Da diversi anni partecipo come volontario a vari festival di divulgazione gestendo, oltre alla parte tecnica, il coordinamento di volontari - per lo più giovani
-           Recentemente, ho insegnato tecniche di videoproiezione per un ente di formazione, lavorando con classi di neodiplomati. 
-           Questa esperienza mi ha permesso di sviluppare esperienza nel coordinare giovani in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.
+           Le tecnologie e le loro applicazioni mi hanno sempre affascinato, e probabilmente continueranno a farlo in futuro.
+           Ma sto trovando sempre più interessante indagare e sperimentare sul come queste tecnologie impattino sulla trasmissione del sapere e della conoscenza.
+           Mi sto infatti avvicinadno sembre di più all'aspetto ideativo dei prodotti multimediali. Per far sì che la tecnica diventi lo strumento per il passaggio di un messaggio, e non solo fine a se stesso.
+           
+           Infine, ma non per importanza, mi piacerebbe restituire alla comunità e a chi ha voglia di imparare, un po' delle conoscenze che ho maturato negli anni. Senza presunzione di essere il detentore di qualche genere di verità, ma la sola espressione della volontà di trasmissione di una personale esperienza.
 
   - title: formazione scolastica # Title for the section
     layout: list # Type of content section (list/text)
@@ -202,7 +199,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
 
-      Se vuoi è possibile scaricare un mio curriculum, un po' più compatto e formale - [Ordiner Alex CV](/cv/images/Ordiner Alex - curriculum tecnico 2025.pdf)
+      Se vuoi è possibile scaricare un mio curriculum, un po' più compatto e formale: [Ordiner Alex CV](/cv/images/Ordiner Alex - curriculum tecnico 2025.pdf)
     
 
 # Footer
