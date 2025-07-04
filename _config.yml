@@ -159,26 +159,28 @@ content:
   - title: formazione scolastica # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: I.S.I.S. Malignani di Udine
+      - layout: top-middle
+        title: Perito Industriale in Elettronica e Telecomunicazioni
         caption: 2000
-        sub_title: Perito Industriale in Elettronica e Telecomunicazioni
+        sub_title: diploma
         quote: >
-          quote
-        description: | # this will include new lines to allow paragraphs
-          description
+          I.S.I.S. Malignani di Udine
+       # description: | # this will include new lines to allow paragraphs
+       #   description
+          
+      - layout: top-middle
+        title: Tecnologo della comunicazione audiovisiva e multimediale
+        caption: 2007
+        sub_title: laurea
+        quote: >
+          Università degli studi di Ferrara
+       # description: | # this will include new lines to allow paragraphs
+       #   description
           
   - title: sul mio futuro # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: I.S.I.S. Malignani di Udine
-        caption: 2000
-        sub_title: Perito Industriale in Elettronica e Telecomunicazioni
-        quote: >
-          quote
-        description: | # this will include new lines to allow paragraphs
-          description    
+    layout: text # Type of content section (list/text)
+    content: |
+      qua scrivo delle cose
 
   - title: per concludere
     layout: text
