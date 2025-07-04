@@ -123,22 +123,22 @@ content:
   - title: sulle altre cose che ho imparato # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
-        title: ambito tecnico
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            - conoscenza approfondita di sistemi informatici MacOS/Win e conoscenza base sistemi Linux
-            - discreta conoscenza delle infrastrutture di reti dati, con particolare attenzione all'AV over IP
-            - buona conoscenza di formati multimediali: codec audio-video-immagine e le loro caratteristiche
-            - buona competenza nella ripresa video e sonora con fotocamere, camcorder, registratori esterni e simili - nozioni di illuminazione professionale
-            - competenza base della sonorizzazione degli ambienti
+#      - layout: right
+#        title: ambito tecnico
+#        # link: boringcompany.com
+#        # link_text: boringcompany.com
+#        sub_title: Senior Network System Administrator
+#        caption: November 2017 - Present
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#        description: | # this will include new lines to allow paragraphs
+#            - conoscenza approfondita di sistemi informatici MacOS/Win e conoscenza base sistemi Linux
+#            - discreta conoscenza delle infrastrutture di reti dati, con particolare attenzione all'AV over IP
+#            - buona conoscenza di formati multimediali: codec audio-video-immagine e le loro caratteristiche
+#            - buona competenza nella ripresa video e sonora con fotocamere, camcorder, registratori esterni e simili - nozioni di illuminazione professionale
+#            - competenza base della sonorizzazione degli ambienti
             
-      - layout: left
+      - layout: right
         title: insegnamento
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -165,12 +165,15 @@ content:
         # sub_title: Senior Network System Administrator
         # caption: November 2017 - Present
         quote: >
-          La mente è come un paracadute. Funziona solo se si apre 
-          *James Dewar (pare)* -
+          “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
+— Aaron Swartz
         description: | # this will include new lines to allow paragraphs
            Le tecnologie e le loro applicazioni mi hanno sempre affascinato, e probabilmente continueranno a farlo in futuro.
-           Ma sto trovando sempre più interessante indagare e sperimentare sul come queste tecnologie impattino sulla trasmissione del sapere e della conoscenza.
-           Mi sto infatti avvicinadno sembre di più all'aspetto ideativo dei prodotti multimediali. Per far sì che la tecnica diventi lo strumento per il passaggio di un messaggio, e non solo fine a se stesso.
+           Oltre all'aspetto tecnico però sono curioso sugli aspetti di come tali tecnologie impattino ed impatteranno sulla nostra società.
+           
+           Sto inoltre trovando sempre più interessante indagare e sperimentare l'impatto delle tecnologie sulla trasmissione del sapere e della conoscenza.
+           Mi sto infatti avvicinadno sembre di più all'aspetto ideativo dei prodotti multimediali.
+           Per far sì che la tecnica diventi non solo fine a se stessa, ma lo strumento per il passaggio di un messaggio.
            
            Infine, ma non per importanza, mi piacerebbe restituire alla comunità e a chi ha voglia di imparare, un po' delle conoscenze che ho maturato negli anni. Senza presunzione di essere il detentore di qualche genere di verità, ma la sola espressione della volontà di trasmissione di una personale esperienza.
 
