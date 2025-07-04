@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
  <mark>eventi live</mark> --- <mark>post-produzione</mark> --- <mark>integrazione di sistemi</mark>
 
 content:
-  - title: sulle mie competenze # Title for the section
+  - title: sulle mie competenze professionali # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -109,21 +109,23 @@ content:
       - layout: top-middle
         title: integrazione di sistemi
         quote: >
-          avete presente quando premi un tasto e tutta la sala riunione si accende? Ecco, quella cosa lì.
+          premi un tasto e tutta la sala riunione si accende? Ecco, quella cosa lì.
         description: | # this will include new lines to allow paragraphs
-            Per concludere, una parte della mia esperienza riguarda l’installazione e l’integrazione di sistemi multimediali fissi in teatri, auditorium, sale conferenze, aule universitarie e simili.
+            Una parte della mia esperienza riguarda l’installazione e l’integrazione di sistemi multimediali in impianti fissi di teatri, auditorium, sale conferenze, aule universitarie e simili.
 
-            Si tratta di proiettori, schermi, ledwall, monitor, microfonaggio, videoconferenza, camere, luci e molto altro.
+            Si tratta di proiettori, schermi, ledwall, monitor, microfoni, videoconferenza, camere, luci e molto altro.
 
-            Oltre all’installazione vera e propria delle apparecchiature, mi occupo soprattutto della programmazione dei sistemi di controllo: protocolli di comunicazione, creazione delle interfacce utente, adattamento degli impianti secondo le esigenze del cliente, ecc.
+            Oltre all’installazione vera e propria delle apparecchiature, mi occupo soprattutto della programmazione dei sistemi di controllo: protocolli di comunicazione, creazione delle interfacce utente, adattamento degli impianti secondo le esigenze del cliente.
 
-            Per i progetti più complessi ho lavorato con Kramer *(certified)*, Extron *(certificato)* e Q-Sys *(in fase di certificazione)*, e con apparecchiature tipo micShure serie MXA, proiettori 26k, ledwall
-  - title: competenze trasversali # Title for the section
+            Per i progetti più complessi ho lavorato con Q-Sys *(in fase di certificazione)*, Kramer *(certified)* e Extron *(certificato)*, e con apparecchiature tipo Shure serie MXA, proiettori 26k, ledwall
+            
+            
+  - title: sulle altre cose che ho imparato # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: right
         title: ambito tecnico
-        link: boringcompany.com
+        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
@@ -154,6 +156,18 @@ content:
            Recentemente, ho insegnato tecniche di videoproiezione per un ente di formazione, lavorando con classi di neodiplomati. 
            Questa esperienza mi ha permesso di sviluppare esperienza nel coordinare giovani in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.
 
+  - title: sul mio futuro # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+      - layout: left
+        title: I.S.I.S. Malignani di Udine
+        caption: 2000
+        sub_title: Perito Industriale in Elettronica e Telecomunicazioni
+        quote: >
+          quote
+        description: | # this will include new lines to allow paragraphs
+          description
+
   - title: formazione scolastica # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -166,13 +180,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           description
 
-  - title: A Little More About Me
+  - title: per concludere
     layout: text
     content: | # this will include new lines to allow paragraphs
-      punto elenco:
-      - prova punto elenco
 
-      Se vuoi, è anche possibile scaricare un mio curriculum un po' più formale - [Ordiner Alex CV](/cv/images/Ordiner Alex - curriculum tecnico 2025.pdf)
+      Se vuoi è possibile scaricare un mio curriculum, un po' più compatto e formale - [Ordiner Alex CV](/cv/images/Ordiner Alex - curriculum tecnico 2025.pdf)
     
 
 # Footer
