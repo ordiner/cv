@@ -156,7 +156,9 @@ content:
            Recentemente, ho insegnato tecniche di videoproiezione per un ente di formazione, lavorando con classi di neodiplomati. 
            Questa esperienza mi ha permesso di sviluppare esperienza nel coordinare giovani in contesti formativi, portando con me un approccio pratico e di condivisione delle competenze.            
 
-  - title: e su quelle che sto imparando # Title for the section            
+  - title: e su quelle che sto imparando # Title for the section 
+    layout: list # Type of content section (list/text)
+    content:             
       - layout: left
         title: idee per il futuro
         # link: boringcompany.com
